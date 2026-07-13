@@ -1,26 +1,34 @@
 # chabger10553
 
-Low-level PCIe / FPGA firmware developer focused on PCILeech-based research builds, device modeling, build automation, and hardware diagnostics.
+## ⚡ PCILeech / PCIe / FPGA Firmware Developer
 
-## Focus
+I build and tune low-level firmware projects with a strong focus on PCILeech, PCIe device behavior, FPGA board targets, and clean build automation.
 
-- PCILeech firmware development and profile work
-- PCIe configuration space, BAR layout, MSI/MSI-X, and device behavior validation
-- FPGA build flows for Vivado-based boards
-- NVMe / NIC style device modeling and debugging
-- Windows device bring-up, Code 10 analysis, and log-driven troubleshooting
+## 🔥 Focus
 
-## Stack
+- 🧬 PCILeech firmware builds, custom profiles, and board-specific targets
+- ⚙️ PCIe config space, capabilities, BAR layout, MSI/MSI-X, and enumeration behavior
+- 🛠️ FPGA firmware workflows with Vivado and reproducible build outputs
+- 🧩 Device identity, descriptors, registers, capabilities, and realistic behavior tuning
+- 🚀 Source cleanup, profile integration, build scripts, and automated delivery flows
+- 🧪 Hardware bring-up, firmware testing, validation, and debugging
+- 📊 Cleaner logs, better diagnostics, and faster troubleshooting for failed builds
+- 🔐 Board/profile locking logic, firmware variants, and controlled release profiles
+- 🧠 Low-level development across HDL, host tools, drivers, and build pipelines
 
-SystemVerilog · Verilog · Go · Python · JavaScript · Vivado · Windows device diagnostics
+## 🧰 Stack
 
-## Current Work
+`PCILeech` `PCIe` `FPGA` `SystemVerilog` `Verilog` `VHDL` `C++` `C` `Go` `Python` `JavaScript` `TypeScript` `PowerShell` `Tcl` `Vivado` `GitHub Actions` `Windows` `Linux`
 
-- Cleaner firmware build pipelines
-- Better diagnostics for failed builds
-- More realistic device profiles and validation checks
-- Reproducible testing for PCIe / FPGA projects
+## 🚧 What I Build
 
-## Contact
+- custom PCILeech firmware profiles
+- FPGA board firmware for different targets
+- clean source trees and repeatable build flows
+- realistic PCIe device configuration behavior
+- firmware builder automation and diagnostics
+- profile packaging, testing, and delivery systems
 
-Open to technical discussions around PCIe, FPGA firmware, PCILeech tooling, and low-level device development.
+## 📌 Current Direction
+
+Improving PCILeech firmware tooling, FPGA build quality, profile realism, and automated diagnostics for low-level hardware projects.
